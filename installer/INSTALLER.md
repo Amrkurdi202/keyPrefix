@@ -1,3 +1,6 @@
+---
+render_with_liquid: false
+---
 # keyPrefix Installer Documentation
 
 This document provides detailed information about the keyPrefix installer, including how to build it, customize it, and understand its components.
