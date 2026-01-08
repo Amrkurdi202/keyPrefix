@@ -23,6 +23,13 @@ A Windows application that adds customizable prefix and suffix text to keyboard 
 - **Automated Data Entry**: Add formatting or delimiters to specific keyboard input
 - **Testing & Development**: Simulate formatted input for application testing
 
+## Screenshots
+<img src="keyprefix_main.png" alt="app screenshot">
+
+And it appears as a tray app.
+
+<img src="keyprefix_tray.png" alt="app as tray app">
+
 ## System Requirements
 
 - **OS**: Windows 10/11 (64-bit)
